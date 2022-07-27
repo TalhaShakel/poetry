@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40155959699",
+    "project_id": "poetry-c57c1",
+    "storage_bucket": "poetry-c57c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40155959699:android:8a06c96fc5b43061afd866",
+        "android_client_info": {
+          "package_name": "com.example.poetry_publisher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40155959699-9k7c31l8dqc0hnaqelgiof1buikichvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJQ3M5eJdL4enmHjyNpI_99I09PxnFuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40155959699-9k7c31l8dqc0hnaqelgiof1buikichvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
